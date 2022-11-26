@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "harajofil.py",
+    name = "ticometiah.py",
     version = "0.1",
-    py_modules = ['harajofil'],
-    url = "https://github.com/harajofil/harajofil.git",
-    author = "harajofil",
+    py_modules = ['ticometiah'],
+    url = "https://github.com/ticometiah/ticometiah.git",
+    author = "ticometiah",
     install_requires = ["pyngrok"]
 )
